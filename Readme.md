@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* **[All.cshtml](./CS/Views/Home/All.cshtml)**
+* [DX.cshtml](./CS/Views/Home/DX.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [Plain.cshtml](./CS/Views/Home/Plain.cshtml)
+* [SeparatePartialView.cshtml](./CS/Views/Home/SeparatePartialView.cshtml)
+<!-- default file list end -->
 # How to define RoundPanel content
 
 
